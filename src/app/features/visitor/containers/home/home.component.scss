@@ -1,0 +1,18 @@
+.exp {
+  width: 20%;
+  height: 20%;
+  position: absolute;
+  top: 0;
+  z-index: 1000;
+  border-radius: 0px 0px 25px 0px;
+}
+.fact {
+  background: linear-gradient(0deg, rgb(0 101 251 / 67%), rgb(0 0 0 / 21%)),
+    url(https://www.challenges.tn/wp-content/uploads/2016/07/tuniso-suisse.jpg);
+  background-size: contain;
+}
+.slider-image-c{
+  height: 200px;
+  width: 200px;
+  object-fit: contain;
+}
